@@ -15,7 +15,7 @@ Reach me as soon as possible? Message me at kristian@schlikow.de or on Discord N
 ---
 ### Quick Fire
 - 😄 Pronouns: He/Him
-- 🔭 I’m currently working on: Blazor-based personal Web CMS, and Game Modifications
-- 🌱 I’m currently learning: Web development with Blazor, modern C++
+- 🔭 I’m currently working on: ASP.NET based Game Service API with Server-Side Blazor UI
+- 🌱 I’m currently learning: .NET 7, High Performance Programming, Streaming
 - 💬 Ask me about: All things coffee, interactive media, and cats
 - ⚡ Fun fact: For my project BestInClass++ I had to engage with Reverse Engineering
