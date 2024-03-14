@@ -3,7 +3,7 @@
 ### I'm a Full-Stack and Application Developer based in the beautiful Cologne Region, Germany
 Passionate about code and making the world more enjoyable through it
 
-Want to reach me as soon as possible? Message me at inquiry.kristian@schlikow.de or on Discord Netrve#8074
+Want to reach me as soon as possible? Message me at inquiry.kristian@schlikow.de or on Discord @netrve
 
 ---
 ### How to Connect with Me:
