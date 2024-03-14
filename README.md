@@ -9,7 +9,7 @@ Want to reach me as soon as possible? Message me at inquiry.kristian@schlikow.de
 ### How to Connect with Me:
 - You can find my (personal) projects under this very profile, <a href="https://github.com/Dakraid">Dakraid</a>
 - Feel free to connect to me on <a href="https://www.linkedin.com/in/kristian-schlikow/">LinkedIn</a>
-- For more leisure things, feel free to hit me up on Discord @ Netrve#8074
+- For more leisure things, feel free to hit me up on Discord @netrve
 - My website is a work in progress and will be available under kristian.schlikow.de
 
 ---
