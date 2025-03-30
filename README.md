@@ -15,7 +15,7 @@ Want to reach me as soon as possible? Message me at inquiry.kristian@schlikow.de
 ---
 ### Quick Fire
 - 😄 Pronouns: He/Him
-- 🔭 I’m currently working on: A fully self-hosted AI web assistant using RAG to help with DnD/Pathfinder/etc.
-- 🌱 I’m currently learning: .NET 8, AI/LLM, High-Performance Programming, Streaming
+- 🔭 I’m currently working on: Realizing full HDR and Upscaling in Skyrim
+- 🌱 I’m currently learning: AI & LLM & Beyond, High-Performance Programming, Reverse Engineering, Shader Programming
 - 💬 Ask me about: All things coffee, interactive media, and cats
 - ⚡ Fun fact: For my project BestInClass++ I had to engage with Reverse Engineering
